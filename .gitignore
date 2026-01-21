@@ -38,3 +38,5 @@ Thumbs.db
 # SSH keys
 *.pem
 *.ppk
+*.tfstate
+*.tfstate.*
